@@ -13,4 +13,4 @@
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="LaTex" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/latex/latex.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" />
