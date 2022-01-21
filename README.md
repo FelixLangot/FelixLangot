@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelixLangot
 - 👀 I’m interested in many things, but here on GitHub I'm mostly looking for ways to improve my computing skills for scientific research
-- :mortar_board: I've been using python/jupyter/LaTex for several years, but I'm still a beginner. I have some experience in writing bash scripts as well, and I have been introduced to parallel computing.
+- :mortar_board: I've been using python/jupyter/LaTex for several years, but I'm still a learning. I have some experience in writing bash scripts as well, and I have been introduced to parallel computing.
 - 🌱 Now a brand new Julia learner! I am still looking to learn other languages, more particularly Fortran and C++  
 - <img align="center" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> My LinkedIn account: [Félix Langot](https://fr.linkedin.com/in/f%C3%A9lix-langot-9a81681a4)
 
