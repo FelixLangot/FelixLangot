@@ -16,4 +16,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" />
 <img align="left" alt="Julia" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/julia-icon.png" />
-<img align="left" alt="Fortran" width="26px" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png" />
+<img align="left" alt="Fortran" width="26px" src="https://fortran-lang.org/en/_static/fortran-logo-256x256.png" />
